@@ -8,4 +8,4 @@ Build a prediction model to predict traffic speed of next 10, 20, 30 minutes of 
 1. Please split data into training and validation set.
 2. Select your performance matrix and show your model's performance.
 3. Prepare a presentation to explain your approach and present the insides.
-4. Please send your project code as zip file.
+4. Please send your project code and slides in a zip file.
