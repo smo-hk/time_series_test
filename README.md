@@ -7,5 +7,5 @@ One month traffic speed data of different routes in Hong Kong.
 Build a prediction model to predict traffic speed of next 10, 20, 30 minutes of different routes in training data provided.
 1. Please split data into training and validation set
 2. Select your performance matrix and show your model's performance
-3. Prepare a presentation with some slides to show the result, explaination and insight if there is any.
-4. For code, you can either send us your project folder or share your GitHub URL/Google colab notebook
+3. Prepare a presentation to explain your approach and present the insides
+4. Please send your project code as zip file
